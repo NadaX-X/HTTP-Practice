@@ -2,13 +2,6 @@
 
 This Python script provides a set of functions to test various HTTP requests and responses using the `httpbin.org` service.
 
-## Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Functions](#functions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Test GET, POST, PUT, PATCH, and DELETE requests
